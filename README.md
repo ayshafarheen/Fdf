@@ -14,3 +14,5 @@ The FdF project is a simple yet powerful program that can read height maps (ofte
 * Color Mapping: Elevations can be represented using colors, allowing for a more intuitive understanding of the terrain's features.
 
 * User-Friendly Interface: FdF features a user-friendly interface that enables smooth navigation and interactivity.
+
+<img width="964" alt="Screen Shot 2023-10-30 at 9 29 45 AM" src="https://github.com/ayshafarheen/Fdf/assets/64208210/6c87e582-6f49-46a2-ae36-7c09db56a2ac">
